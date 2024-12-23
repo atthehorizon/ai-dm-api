@@ -1,0 +1,19 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build dir
+*.test
+/bin/
+
+# IDE/editor-specific files
+.idea/
+*.vscode/
+
+# Go modules
+/vendor/
+
+# MacOS files
+.DS_Store
